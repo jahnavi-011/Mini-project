@@ -1,0 +1,34 @@
+
+
+SProvider
+
+Login,
+Train and Test Data Sets,
+View Trained and Tested Accuracy in Bar Chart,
+View Trained and Tested Accuracy Results,
+Predict Product Recommendation From Data Set Details,
+Find Product Recommendation Prediction Ratio on Data Sets,
+Download Trained Data Sets,
+View Product Recommendation Prediction Ratio Results,
+View All Remote Users. 
+
+Remote User
+
+POST PRODUCT DATA SETS,
+PREDICT PRODUCT RECOMMENDATION,
+VIEW YOUR PROFILE 
+
+
+Members
+
+idno,
+ProductId,
+UserId,
+ProfileName,
+HelpfulnessNumerator,
+HelpfulnessDenominator,
+Score,
+Time,
+Summary,
+Review,
+Recommend_Prediction.
